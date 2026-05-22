@@ -49,7 +49,6 @@ The final dashboard focuses on Canada-level quarterly monitoring because the sel
 - Python
 - Pandas
 - NumPy
-- SQL
 - Power BI
 - Excel
 - Statistics Canada data
