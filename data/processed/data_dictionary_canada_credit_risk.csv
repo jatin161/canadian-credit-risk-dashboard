@@ -1,0 +1,30 @@
+column_name,description
+date,Quarter start date
+geography,Geographic region
+debt_service_ratio,Total household debt service ratio
+mortgage_debt_service_ratio,Mortgage debt service ratio
+non_mortgage_debt_service_ratio,Non-mortgage debt service ratio
+debt_to_disposable_income,Household debt to disposable income ratio
+credit_market_debt_to_disposable_income,Credit market debt to disposable income ratio
+consumer_credit_mortgage_liabilities_to_income,Consumer credit and mortgage liabilities to income ratio
+effective_interest_cost_total_loans,Effective interest cost for total loans
+disposable_income,Household disposable income
+disposable_income_growth_yoy,Year-over-year disposable income growth percentage
+interest_cost_change_yoy,Year-over-year change in effective interest cost
+consumer_insolvencies,Quarterly consumer insolvency count
+insolvency_growth_yoy,Year-over-year consumer insolvency growth percentage
+debt_to_income_change_yoy,Year-over-year change in debt-to-income ratio
+debt_service_ratio_change_yoy,Year-over-year change in debt service ratio
+dsr_score,Score assigned to debt service ratio
+debt_income_score,Score assigned to debt-to-income ratio
+insolvency_score,Score assigned to insolvency growth
+interest_pressure_score,Score assigned to interest pressure
+income_pressure_score,Score assigned to income pressure
+risk_score,Final weighted household credit risk score
+risk_category,Risk category based on final score
+suggested_action,Suggested action for risk manager
+year,Calendar year
+quarter,Calendar quarter
+quarter_label,Quarter label for dashboard display
+risk_traffic_light,Traffic-light risk classification
+risk_narrative,Auto-generated risk summary for dashboard
