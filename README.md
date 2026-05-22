@@ -58,7 +58,6 @@ The final dashboard focuses on Canada-level quarterly monitoring because the sel
 
 ## Technical Workflow
 
-```text
 Raw data sources
 → Python ingestion and cleaning
 → Indicator filtering and transformation
@@ -67,3 +66,14 @@ Raw data sources
 → Dashboard-ready dataset
 → Power BI dashboard
 → Executive risk reporting
+
+## Dasboard Glimpse 
+
+### Executive Risk Overview
+![Executive Risk Overview](dashboard/screenshots/page_1_executive_risk_overview.png)
+
+### Credit Stress Drivers 
+![Credit Stress Drivers](dashboard/screenshots/page_2_credit_stress_drivers.png)
+
+### Early Warning Command Center
+![Early Warning Command Center](dashboard/screenshots/page_3_early_warning_command_center.png)
